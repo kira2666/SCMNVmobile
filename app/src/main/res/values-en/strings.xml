@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SCNMV</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_register">Sign Up</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="btnCharger">Load…</string>
+    <string name="btnDeconnexion">Sign Out</string>
+    <string name="btnVisualiser">Display</string>
+    <string name="editFormule">Enter a formula</string>
+    <string name="email_format_error">Please enter a Gmail account</string>
+    <string name="email_or_password_empty">Fields cannot be empty.</string>
+    <string name="error_Authenticate">Authentication failed.</string>
+    <string name="error_GPService">Google Play Services Error.</string>
+    <string name="error_Google_SignIn">Google Sign In Failed.</string>
+    <string name="field_required">Required.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password1_or_password2_different">Passwords must be identical.</string>
+    <string name="prompt_email">E-mail address</string>
+    <string name="prompt_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input.</string>
+    <string name="speech_prompt">Say something…</string>
+    <string name="txtFormule">Formula:</string>
+</resources>

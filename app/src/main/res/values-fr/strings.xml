@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SCNMV</string>
+    <string name="action_quit">Quitter</string>
+    <string name="action_register">S\'inscrire</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="btnCharger">Charger…</string>
+    <string name="btnDeconnexion">Déconnexion</string>
+    <string name="btnVisualiser">Visualiser</string>
+    <string name="editFormule">Entrer une formule</string>
+    <string name="email_format_error">Veuillez entrer une adresse Gmail</string>
+    <string name="email_or_password_empty">Les champs ne peuvent être vides.</string>
+    <string name="error_Authenticate">Authentification échouée.</string>
+    <string name="error_GPService">Erreur Services Google Play.</string>
+    <string name="error_Google_SignIn">Connexion avec Google échouée.</string>
+    <string name="field_required">Requis.</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="password1_or_password2_different">Les mots de passe doivent être identiques.</string>
+    <string name="prompt_email">Adresse courriel</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="speech_not_supported">Désolé! Votre appareil ne supporte pas l\'entrée vocale.</string>
+    <string name="speech_prompt">Dites quelque chose…</string>
+    <string name="txtFormule">Formule:</string>
+</resources>

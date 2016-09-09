@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SCNMV</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Adresse courriel</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_register">S\'inscrire</string>
+    <string name="action_quit">Quitter</string>
+    <string name="field_required">Requis.</string>
+
+    <!-- Strings related to Google SignIn errors-->
+    <string name="error_Google_SignIn">Connexion avec Google échouée.</string>
+    <string name="error_Authenticate">Authentification échouée.</string>
+    <string name="error_GPService">Erreur Services Google Play.</string>
+
+    <!-- Strings related to environement -->
+    <string name="btnCharger">Charger&#8230;</string>
+    <string name="txtFormule">Formule:</string>
+    <string name="editFormule">Entrer une formule</string>
+    <string name="btnVisualiser">Visualiser</string>
+    <string name="btnDeconnexion">Déconnexion</string>
+
+    <!-- String related to Firebase DB -->
+    <string name="title_activity_new_post" translatable="false">NewPostActivity</string>
+    <string name="title_activity_base" translatable="false">BaseActivity</string>
+    <string name="title_activity_post_detaille" translatable="false">PostDetailleActivity</string>
+    <string name="DB_Title">Title</string>
+    <string name="Write_post">Write your post&#8230;</string>
+    <string name="write_comment">Write a comment&#8230;</string>
+    <string name="DB_post">Post</string>
+
+    <!-- String related to Inscription -->
+    <string name="str_inscription">Inscription</string>
+    <string name="enter_email">Entrez votre courriel:</string>
+    <string name="confirm_pass">Confirmer le mot de passe:</string>
+    <string name="email_format_error">Veuillez entrer une adresse gmail</string>
+    <string name="email_or_password_empty">les champs ne doivent pas etre vides</string>
+    <string name="password1_or_password2_different">les mots de passe doivent etre identiques</string>
+
+    <!-- String related to Résultats -->
+    <string name="results">Résultats:</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="complex">Complexité:</string>
+    <string name="listen">Écouter</string>
+
+    <!-- String related to TTS -->
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>

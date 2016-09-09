@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="ca.csf.dfc.projsynth.scmnv.view.environnement"
+    android:background="@color/colorGris">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnCharger"
+        android:id="@+id/btnCharger"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textSize="50sp"
+        android:background="@color/colorBleu"
+        android:textColor="@color/colorTitle"
+        android:height="100dp" />
+
+    <TextView android:text="@string/txtFormule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFormule"
+        android:layout_below="@id/btnCharger"
+        android:textSize="35sp"
+        android:layout_alignParentLeft="true"
+        android:textColor="@color/colorNoir" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editFormule"
+        android:hint="@string/editFormule"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:textSize="35sp"
+        android:background="@color/colorTitle"
+        android:gravity="top|start"
+        android:height="100dp"
+        android:layout_below="@+id/txtFormule" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnVisualiser"
+        android:id="@+id/btnVisualiser"
+        android:layout_below="@id/editFormule"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="50sp"
+        android:background="@color/colorJaune"
+        android:height="100dp" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnDeconnexion"
+        android:id="@+id/btnDeconnexion"
+        android:layout_below="@id/btnVisualiser"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="45sp"
+        android:textColor="@color/colorTitle"
+        android:background="@color/colorRouge"/>
+
+</RelativeLayout>

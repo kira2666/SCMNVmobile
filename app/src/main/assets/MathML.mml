@@ -1,0 +1,47 @@
+<math>
+<mrow>
+	<msqrt>
+		<msup>
+			<mi>b</mi>
+			<mn>2</mn>
+		</msup>
+			<mrow>
+			<mo>-</mo>
+			<mn>4</mn>
+			<mo>*</mo>
+			<mi>a</mi>
+			<mo>*</mo>
+			<mi>c</mi>
+			<mo>+</mo>
+			<mn>2</mn>
+		</mrow>
+	</msqrt>
+</mrow>
+
+<mspace linebreak='newline'></mspace>
+
+<mfrac>
+        <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mn>1</mn>
+        </mrow>
+        <mrow>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mi>n</mi>
+        </mrow>
+</mfrac>
+
+<mspace linebreak='newline'></mspace>
+
+<munderover>
+        <mo>∑</mo>
+        <mi>n</mi>
+        <mn>5</mn>
+</munderover>
+    <mn>1</mn>
+    <mo>+</mo>
+    <mi>n</mi>
+
+</math>

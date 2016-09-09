@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    //couleurs de l'application
+    <color name="colorTitle">#ffffff</color>
+    <color name="colorGris">#EEEEEE</color>
+    <color name="colorBleu">#0072FF</color>
+    <color name="colorJaune">#FFE665</color>
+    <color name="colorRouge">#CC0000</color>
+    <color name="colorMenu">#085394</color>
+    <color name="colorNoir">#000000</color>
+</resources>
